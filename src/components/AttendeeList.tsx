@@ -1,6 +1,6 @@
 import { ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight, MoreHorizontal, Search } from "lucide-react"
 import { ChangeEvent, useEffect, useState } from "react"
-import { attendees } from "../data/attendees"
+// import { attendees } from "../data/attendees"
 
 import dayjs from "dayjs"
 import relativeTime from 'dayjs/plugin/relativeTime'
