@@ -45,7 +45,7 @@ O projeto **Pass.in** foi concebido durante a trilha `React` do evento `NLW-Unit
 
 ## 🔗 Deploy
 
-O deploy da aplicação pode ser acessado através da seguinte URL: URL
+O deploy da aplicação pode ser acessado através da seguinte URL:
 
 ---
 
