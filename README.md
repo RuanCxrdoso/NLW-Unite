@@ -41,11 +41,13 @@
 
 O projeto **Pass.in** foi concebido durante a trilha `React` do evento `NLW-Unite`, promovido pela [Rocketseat](https://www.rocketseat.com.br/). Trata-se de uma aplicação frontend voltada para o gerenciamento de participantes em eventos. Ela oferece funcionalidades para armazenar e exibir informações cruciais, como nome, e-mail, data de inscrição e data de check-in dos participantes.
 
+Os dados do Front são obtidos a partir do projeto Back End realizado na [Trilha de Node](https://github.com/rocketseat-education/nlw-unite-nodejs) do NLW - Unite.
+
 ---
 
 ## 🔗 Deploy
 
-O deploy da aplicação pode ser acessado através da seguinte URL: URL
+O deploy da aplicação pode ser acessado através da seguinte URL:
 
 ---
 
