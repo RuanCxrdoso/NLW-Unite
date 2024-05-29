@@ -47,7 +47,7 @@ Os dados do Front são obtidos a partir do projeto Back End realizado na [Trilha
 
 ## 🔗 Deploy
 
-O deploy da aplicação pode ser acessado através da seguinte URL:
+O deploy da aplicação pode ser acessado através da seguinte URL: https://rcardoso-nlw-unite.vercel.app
 
 ---
 
