@@ -93,13 +93,7 @@ Veja uma demonstração das principais interfaces da aplicação:
 
 ### Preview
 
-<p align="center">
-  <img
-    src="https://github.com/RuanCxrdoso/NLW-Unite/assets/86266893/a3b2d71a-a629-473b-8f5a-6ec2762310ce"
-    alt=""
-    width="100%"
-  />
-</p>
+![PassIn](https://github.com/RuanCxrdoso/NLW-Unite/assets/86266893/768432ce-8ebc-4d54-9232-f51ac384d93f)
 
 ---
 
